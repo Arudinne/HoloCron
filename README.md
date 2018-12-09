@@ -1,4 +1,4 @@
-#Holocron Lamp for the Discerning Jedi
+# Holocron Lamp for the Discerning Jedi
 
 This projectg is based off of the [Holocron Lamp for the Discerning Jedi by Dave Clarke](https://www.thingiverse.com/thing:1762432)
 
